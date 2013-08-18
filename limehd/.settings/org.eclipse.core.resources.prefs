@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//res/values-zh-rCN/strings.xml=UTF-8
+encoding//res/values/strings.xml=UTF-8
+encoding//src/net/toload/main/hd/ChineseSymbol.java=UTF-8
+encoding//src/net/toload/main/hd/LIMEKeyboardSwitcher.java=UTF-8
+encoding//src/net/toload/main/hd/global/ChineseSymbol.java=UTF-8
+encoding//src/net/toload/main/hd/keyboard/LIMEBaseKeyboard.java=UTF-8
+encoding//src/net/toload/main/hd/limedb/LimeDB.java=UTF-8
+encoding//src/net/toload/main/hd/limesettings/LIMEInitial.java=UTF-8
+encoding//src/net/toload/main/hd/limesettings/LIMEMappingSetting.java=UTF-8
