@@ -1617,7 +1617,8 @@ public class LIMEService extends InputMethodService implements
 		} else if (primaryCode == LIMEKeyboardView.KEYCODE_OPTIONS) {
 			handleOptions();
 		} else if( primaryCode == LIMEKeyboardView.KEYCODE_SPACE_LONGPRESS) {
-			showIMPicker();
+			//showIMPicker();
+			startVoiceInput();
 		} else if (primaryCode == LIMEBaseKeyboard.KEYCODE_MODE_CHANGE	&& mInputView != null) {
 			switchKeyboard(primaryCode);
 		} else if (primaryCode == LIMEKeyboardView.KEYCODE_NEXT_IM){
